@@ -53,7 +53,7 @@ while true; do
 
         fi
   done
- # wait 30 seconds to do another sweep
+ # wait 60 seconds to do another sweep
 echo "waiting for 60 seconds..."
  sleep 60
 done
